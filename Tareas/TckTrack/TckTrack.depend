@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553676663 source:e:\tareas\tcktrack\main.c
+	<stdio.h>
+	<stdlib.h>
+
