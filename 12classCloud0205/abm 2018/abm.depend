@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1524524525 source:d:\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1525713660 source:e:\c++\abm 2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525714767 source:e:\c++\abm 2018\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525713660 e:\c++\abm 2018\funciones.h
+
+1525714848 e:\c++\abm 2018\utn.h
+
+1525660051 source:e:\c++\abm 2018\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1525714768 source:c:\users\alumno\desktop\abm 2018\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1556578530 c:\users\alumno\desktop\abm 2018\funciones.h
+
+1525714850 c:\users\alumno\desktop\abm 2018\utn.h
+
+1525713662 source:c:\users\alumno\desktop\abm 2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525660052 source:c:\users\alumno\desktop\abm 2018\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
